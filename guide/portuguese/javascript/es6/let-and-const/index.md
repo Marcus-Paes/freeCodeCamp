@@ -2,7 +2,7 @@
 title: Let and Const
 localeTitle: Deixe e Const
 ---
-## Deixei
+## let
 
 O let é semelhante ao var, mas o let tem o escopo. let só é acessível no nível de bloco que está definido.
 ```
